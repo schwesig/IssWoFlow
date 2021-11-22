@@ -1,3 +1,6 @@
+folowing this structure
+https://github.com/orgs/operate-first/projects/44/views/1
+
 # Operate First template for repositories
 
 Derive new repositories from this template
