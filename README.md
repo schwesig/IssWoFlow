@@ -1,7 +1,8 @@
 folowing this structure
 https://github.com/orgs/operate-first/projects/44/views/1
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Issue Workflow Project alpha%20🌈&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Dancing%20Rainbow%20🌈&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
 
 # Operate First template for repositories
 
